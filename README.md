@@ -13,3 +13,19 @@ Project 01: Unit conversion from meters.
   Future goals:
   
     -Allow the user to input any unit and be provided with proper measurements without the user editing formulas.
+
+
+
+  Project 02: Visualising vectors
+
+  This project allowed me to examine the effects of magnitude and angle on vectors in a visual manner.
+
+  Concepts learnt:
+
+    -Creting inverse vectors through several different means such as negative magnitude, negative angle, and inverse angle
+    -The effects of magnitude and angle on the visualisation of vectors
+    -Drawing lines in Python
+
+  Future goals:
+
+    -Emply descriptions other than magnitude and degrees to visualise vectors in python

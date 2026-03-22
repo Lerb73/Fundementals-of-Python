@@ -22,7 +22,7 @@ Project 01: Unit conversion from meters.
 
   Concepts learnt:
 
-    -Creting inverse vectors through several different means such as negative magnitude, negative angle, and inverse angle
+    -Creating inverse vectors through several different means such as negative magnitude, negative angle, and inverse angle
     -The effects of magnitude and angle on the visualisation of vectors
     -Drawing lines in Python
 
